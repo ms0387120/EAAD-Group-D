@@ -48,3 +48,6 @@
     - Ask teacher by email [continue ...]
 
   - Read more literatures **at least ten**
+  - need to complete comparison table
+
+---
