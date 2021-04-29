@@ -8,12 +8,12 @@
 
 ## Literature
 
-* https://link-springer-com.eaccess.ub.tum.de/chapter/10.1007/978-981-15-5093-5_3
-* https://link-springer-com.eaccess.ub.tum.de/article/10.1007/s12008-018-0473-9
-* file:///Users/julialudmann/Downloads/A_Study_on_the_Application_of_AI_and_Linkage_System_for_Safety_in_the_Autonomous_Driving.pdf (search english version)
-* https://dl-acm-org.eaccess.ub.tum.de/doi/pdf/10.1145/3388790
-* https://www-sciencedirect-com.eaccess.ub.tum.de/science/article/abs/pii/S2214140516303693
-* https://ieeexplore-ieee-org.eaccess.ub.tum.de/document/8284512
+* [Passengers’ Emotions Recognition to Improve Social Acceptance of Autonomous Driving Vehicles](https://link-springer-com.eaccess.ub.tum.de/chapter/10.1007/978-981-15-5093-5_3)
+* [Driver Emotion Recognition for Intelligent Vehicles: A Survey (June 2020)](https://dl-acm-org.eaccess.ub.tum.de/doi/pdf/10.1145/3388790)
+* [Happy-anger emotions classifications from electrocardiogram signal for automobile driving safety and awareness](https://www-sciencedirect-com.eaccess.ub.tum.de/science/article/abs/pii/S2214140516303693)
+* [Advancements and recent trends in emotion recognition using facial image analysis and machine learning models](https://ieeexplore-ieee-org.eaccess.ub.tum.de/document/8284512)
+* [Keep Calm and Ride Along: Passenger Comfort and Anxiety as Physiological Responses to Autonomous Driving Styles](https://dl.acm.org/doi/pdf/10.1145/3313831.3376247?casa_token=Qu_HFEDwdj4AAAAA:sLcxVV1rRLz17xA8zJol2VFWiRbDC8X-Ro-6XKE741kI1IcZfu7SRTxolI2hXbYqH6b1OvjtA5uvcg)
+* [Emotional GaRage: A Workshop on InCar Emotion Recognition and Regulation ](https://dl.acm.org/doi/pdf/10.1145/3239092.3239098?casa_token=Cr0MnnNqjroAAAAA%3A3fdlKhy9jrnd6JAunrhFGIJQNncY0VrbvqhmhMiN97kkfrIcuLouLPelaqQacw7-sAdxurc50-857A)
 
 * [Automatic Emotion Recognition for the Calibration of Autonomous Driving Functions](https://www.mdpi.com/2079-9292/9/3/518)
 
