@@ -10,6 +10,7 @@
 
 * [Passengers’ Emotions Recognition to Improve Social Acceptance of Autonomous Driving Vehicles](https://link-springer-com.eaccess.ub.tum.de/chapter/10.1007/978-981-15-5093-5_3)
 * [Driver Emotion Recognition for Intelligent Vehicles: A Survey (June 2020)](https://dl-acm-org.eaccess.ub.tum.de/doi/pdf/10.1145/3388790)
+  - Navigation voice as method to "control" emotion of driver / passengers (Mentioned here and refered to papers)
 * [Happy-anger emotions classifications from electrocardiogram signal for automobile driving safety and awareness](https://www-sciencedirect-com.eaccess.ub.tum.de/science/article/abs/pii/S2214140516303693)
 * [Advancements and recent trends in emotion recognition using facial image analysis and machine learning models](https://ieeexplore-ieee-org.eaccess.ub.tum.de/document/8284512)
 * [Keep Calm and Ride Along: Passenger Comfort and Anxiety as Physiological Responses to Autonomous Driving Styles](https://dl.acm.org/doi/pdf/10.1145/3313831.3376247?casa_token=Qu_HFEDwdj4AAAAA:sLcxVV1rRLz17xA8zJol2VFWiRbDC8X-Ro-6XKE741kI1IcZfu7SRTxolI2hXbYqH6b1OvjtA5uvcg)
