@@ -47,8 +47,10 @@
   - What **"Safety"** means ?
     
     - Teacher Answer
-    - Technically the safety topic in automotive is divided into two categories of "in-cabin (with focus on passengers)" and "surrounding of the car (with focus on pedestrians)". You should only consider the in-cabin environment since the other one is out of the context of this seminar. From the safety perspective there is no distinction between driver and passengers in in-cabin environment. That is also the reason why all the safety measures and standards are using the term "occupants" instead. However, you can consider two main directions of "full autonomy" and "partial autonomy" as the main story line of your research and try to define your research questions accordingly. In that case, you can properly distribute the applications by their target group (either on "driver-only" or "driver+passenger").
-    - I highly suggest you to cover both directions here, otherwise it won't be sufficient when you want to integrate the safety standards in your research afterwards. Your applications can be related to either comfort domain or driving dynamics, which the latter has the highest impact on safety. Then you must represent the existing research questions in dealing/designing/developing such applications and argue how they contribute to maintain the safety standards and measures. (for example: nearly all of those driving-related applications are hard-coded and formally verified these days, what will happen if you [replace them with machine-learning based solution and] use the emotions as the feed-back loop? What is the approach for verification in that case? etc.)
+    - **Focus on in-cabin** environment. From the safety perspective there is no distinction between driver and passengers in in-cabin environment.
+    - Consider two main directions of "full autonomy" and "partial autonomy" as the main story line of your research and try to define your research questions accordingly. In that case, you can properly distribute the applications by their target group (either on "driver-only" or "driver+passenger").
+    - **Cover both directions (Driver + passengers) to discuss**
+    - Your applications can be related to either comfort domain or driving dynamics, which the latter has the highest impact on safety. 
 
   - Read more literatures **at least ten**
   - need to complete comparison table
