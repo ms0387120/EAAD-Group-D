@@ -53,4 +53,12 @@
   - Read more literatures **at least ten**
   - need to complete comparison table
 
+* 0430 Meeting
+
+  - Follow this direction
+  - ![image](https://user-images.githubusercontent.com/66301041/116667380-6639fa00-a99c-11eb-92ba-6233556618c9.png) 
+  - Julia：Focus on **Camera** & **Biosensors**
+  - Mei-Ju: Focus on **Microphones** & **CAN-Bus Steering Wheel Seat**
+  - Next discussion, we need to organize the outline of the presentation 
+
 ---
