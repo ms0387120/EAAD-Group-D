@@ -15,7 +15,16 @@
 * [Advancements and recent trends in emotion recognition using facial image analysis and machine learning models](https://ieeexplore-ieee-org.eaccess.ub.tum.de/document/8284512)
 * [Keep Calm and Ride Along: Passenger Comfort and Anxiety as Physiological Responses to Autonomous Driving Styles](https://dl.acm.org/doi/pdf/10.1145/3313831.3376247?casa_token=Qu_HFEDwdj4AAAAA:sLcxVV1rRLz17xA8zJol2VFWiRbDC8X-Ro-6XKE741kI1IcZfu7SRTxolI2hXbYqH6b1OvjtA5uvcg)
 * [Emotional GaRage: A Workshop on InCar Emotion Recognition and Regulation ](https://dl.acm.org/doi/pdf/10.1145/3239092.3239098?casa_token=Cr0MnnNqjroAAAAA%3A3fdlKhy9jrnd6JAunrhFGIJQNncY0VrbvqhmhMiN97kkfrIcuLouLPelaqQacw7-sAdxurc50-857A)
-
+- links relatively new papers (2016-2018) for emotion detection
+- important in all levels of automation
+  - Mauel driving: 
+    - semi-autonomous driving: adjust timing of takeover depending on emotions
+    - counteracts for frustration and agression: speech-based systems, play music or massagingfunction in the seat (emotion is detected)
+    - Important for safety
+  - Autonomous driving: 
+    - confused (HMI design) or scared (driving style) driver
+    - counteracts for frustration and agression: apply cognitive emotion regulation strategies, suggest relaxing movies/ music, display messages from friends, adapt smoother driving (emotion is detected)
+    - Important for user acceptance
 * [Automatic Emotion Recognition for the Calibration of Autonomous Driving Functions](https://www.mdpi.com/2079-9292/9/3/518)
 * [Emotion recognition for semi-autonomous vehicles framework](https://link.springer.com/article/10.1007/s12008-018-0473-9)
 * [Towards Multimodal Emotion Recognition in German Speech Events in Cars using Transfer Learning](https://arxiv.org/pdf/1909.02764.pdf)
