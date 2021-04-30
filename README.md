@@ -61,4 +61,15 @@
   - Mei-Ju: Focus on **Microphones** & **CAN-Bus Steering Wheel Seat**
   - Next discussion, we need to organize the outline of the presentation 
 
+*	Presentation/ Paper Structure Proposal Julia:
+  1. Intro: 
+		a. Importance of Emotional Awareness in all stages of automation 
+		(Manuel vs. Semi-automated vs. Fully Autonomous)
+			i. Differentiatle importance / impact / safety concerns
+	2. Main Part: How to detect emotional awareness (Sensoring)
+	3. What to do with the result of detected emotion? 
+	(Interpretation, Reaction of System on emotion)
+Optional: close the cycle by adopting to the levels of automation (if not always mentioned besides)
+
+
 ---
