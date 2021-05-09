@@ -33,6 +33,57 @@
 * [Drive Safe: Cognitive-Behavioral Mining for Intelligent Transportation Cyber-Physical System](https://arxiv.org/pdf/2008.10148.pdf)
 
 ---
+## 0510
+
+* Sensing and Preprocessing
+
+    - Speech
+
+        - Voice Quality
+
+            - Recording Setting
+
+                - Type of Microphones
+                - placement
+
+            - Noise Reduction
+
+                - amplify relevant acoustic signals
+                - remove other overlapping noise
+
+    - Behavior for driver
+
+        - grip strength
+        - gas and brake pedals with force sensors to capture leg motion
+        - pressure sensors on the seat to track changes in body posture
+
+* Analysis & Recongnition
+
+    - Speech
+
+        - Reduce the dimensionality for feature selection
+        - Advanced Paper:
+
+            - [Towards Multimodal Emotion Recognition in German Speech Events in Cars using Transfer Learning](https://arxiv.org/pdf/1909.02764.pdf)
+            - Sep 2019
+            - Goal: How to recognize driver's emotion by the audio signal of a spoken interaction, the visual signal of the driver’s face, and the manually transcribed content of utterances of the driver. 
+            - Method: Transfer learning + BiLSTM
+
+    - Behavior
+
+        - Relation between different behavioral changes and emotions
+
+            - grip strength significantly varied for both anger and happiness 
+            - measure stress by using the steering angle and a mass spring damper model 
+
+        - Advanced Paper:
+        
+            - [Drive Safe: Cognitive-Behavioral Mining for Intelligent Transportation Cyber-Physical System](https://arxiv.org/pdf/2008.10148.pdf)
+            - Aug 2020
+            - Goal: Road Safety for Driver (focus on distraction detection)
+            - Methods: capsule network, maximum likelihood, convolutional neural network, Apriori algorithm, and Bayesian network
+
+---
 ## Comparaison
 
 * [Google Excel](https://docs.google.com/spreadsheets/d/18k6Jx_4VeK_lypwkIREGcaDZPzUHlqBQKtNft-X7Mfg/edit?usp=sharing)
