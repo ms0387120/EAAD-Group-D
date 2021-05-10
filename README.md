@@ -121,5 +121,29 @@
 	3. What to do with the result of detected emotion? (Interpretation, Reaction of System on emotion)
 		- Optional: close the cycle by adopting to the levels of automation (if not always mentioned besides)
 
+* 0510 Discussion
+
+**<Outline of Presentation>**
+
+1.Introduction
+* Define what is safety in our topic
+* Emotional Awareness in all stages of automation (Manuel vs. Semi-automated vs. Fully Autonomous)
+* Differentiatle importance / impact / safety concerns
+
+2. Main
+* Architecture
+	- ![image](https://user-images.githubusercontent.com/66301041/116667380-6639fa00-a99c-11eb-92ba-6233556618c9.png)
+* Separately talk about 4 Topics: Camera, Biosensors, Speech, CAN Behavior
+	- How to detect emotional awareness (Sensoring & Preprocessing)
+		- Challenges
+	- Advanced Method (Analysis & Recognition)
+	- What to do with the result of detected emotion for safety?
+	- Importance: Emotional Awareness in all stages of automation
+
+3. Comparison (pros and cons) of 4 Topics we mention for safety
+4. Conclusion
+
+* Next discussion on 05/21 (Fri) 13:00 , we would focus on slides content and make sure its consistency 
+
 
 ---
