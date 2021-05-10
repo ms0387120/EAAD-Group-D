@@ -125,7 +125,7 @@
 
 **<Outline of Presentation>**
 
-1.Introduction
+1. Introduction
 * Define what is safety in our topic
 * Emotional Awareness in all stages of automation (Manuel vs. Semi-automated vs. Fully Autonomous)
 * Differentiatle importance / impact / safety concerns
