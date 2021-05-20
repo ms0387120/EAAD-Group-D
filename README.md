@@ -88,6 +88,7 @@
 
 * [Google Excel for Paper Summary](https://docs.google.com/spreadsheets/d/18k6Jx_4VeK_lypwkIREGcaDZPzUHlqBQKtNft-X7Mfg/edit?usp=sharing)
 * [Slides for Presentation](https://docs.google.com/presentation/d/19dKgfZl-CTtuMnRiy_aveLTkNYfGI-9jYAZ4pGj2Bi8/edit?usp=sharing)
+* [Latex for Report](https://latex.tum.de/3146929735hfsbtvxmkppv)
 
 ---
 ## Discussion Notes
