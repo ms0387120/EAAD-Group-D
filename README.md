@@ -144,7 +144,11 @@
 3. Comparison (pros and cons) of 4 Topics we mention for safety
 4. Conclusion
 
-* Next discussion on 05/21 (Fri) 13:00 , we would focus on slides content and make sure its consistency 
+* 0521 Discussion
+	
+	- Go through each part of our slides
+
+* Next discussion on 05/25 (Tue) 16:00 , we would focus on slides **final** content and make sure its consistency
 
 
 ---
